@@ -11,3 +11,5 @@ When you guess correctly the game will end and you win
 In the start of the game there will be a list of rules to follow
 
 The game also includes input validation for the numbers 
+
+//include a exit for giving up on the game
